@@ -1,0 +1,17 @@
+#header{
+    background-color: grey;
+    color: white;
+    text-align: center;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    font-weight: bold;
+    font-size: 2em;
+    top: 0%;
+    position: absolute;
+    width: 100%;
+    left: 0%;
+}
+#index{ 
+    display: inline-block;
+    gap: 20px;
+}
