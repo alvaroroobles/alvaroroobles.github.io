@@ -1,0 +1,17 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+header{
+    background: url(captura.png) center no-repeat;
+    background-size: cover;
+    height: 80vh;
+    /*PARA EL CENTRADO DEL BOTÓN : */
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 40px; 
+}
