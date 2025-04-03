@@ -1,15 +1,11 @@
-Esto es un read me
----
-**Negrita**
-*Cursiva*
-> cita
-1. Primer elemento
-2. Segundo elemento
-3. Tercer elemento
----
-# Quick Links #
----------
-**Website**:[Mi página web](https://alvaroroobles.github.io)
+Esta es mi web acerca de un negocio de calzados familiar.
 
-	
-![IES Zaidin Vergeles](https://publish-p47754-e237306.adobeaemcloud.com/content/dam/common/statics/public-content/internet/web/rm-spa-web/images/meta/og-image.png)
+La web va a constar de las diferentes partes:
+
+Encabezado con imagen hero de fondo,un menu y un botón cta.
+
+Una serie de tarjetas con texto donde se engloben los principales tipos de calzado
+
+Una imagen en grande,de la periferia de la tienda, con un texto grande al lado destacando el porque elegirnos a nosotros.
+
+Y para cerrar un formulario de contacto junto con un footer
