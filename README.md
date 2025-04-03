@@ -21,3 +21,6 @@ A continuación, habrá tres tarjetas que representen las tres categorías de ca
 - **Imagen**: Imagen representativa de cada tipo de calzado.
 - **Breve Descripción**: Una pequeña descripción de la categoría, con el objetivo de guiar al visitante sobre lo que encontrará en esa sección.
 
+### 5. Sección "Acerca de Nosotros"
+En esta sección se proporcionará información sobre **Almacén de Calzados Guadix**. Se destacarán los valores y misión de la tienda, así como los años de experiencia y compromiso con la calidad y satisfacción del cliente. Ejemplo de contenido:
+- **"En Almacén de Calzados Guadix llevamos más de 20 años ofreciendo calzado de calidad para toda la familia. Nos enorgullece brindar productos que combinan comodidad, durabilidad y estilo."**
