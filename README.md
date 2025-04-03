@@ -1,11 +1,50 @@
-Esta es mi web acerca de un negocio de calzados familiar.
+# Bienvenido a [Nombre de tu tienda de calzado]
 
-La web va a constar de las diferentes partes:
+## Calzado de calidad para toda la familia
 
-Encabezado con imagen hero de fondo,un menu y un botón cta.
+---
 
-Una serie de tarjetas con texto donde se engloben los principales tipos de calzado
+### **Nuestros Productos**
 
-Una imagen en grande,de la periferia de la tienda, con un texto grande al lado destacando el porque elegirnos a nosotros.
+Conoce los principales tipos de calzado que ofrecemos:
 
-Y para cerrar un formulario de contacto junto con un footer
+- **Deportivo**  
+  Calzado ideal para tus actividades diarias y deportivas. Comodidad y durabilidad en cada paso.
+
+- **Formal**  
+  Elegancia para cualquier ocasión especial. Diseños clásicos y sofisticados.
+
+- **Casual**  
+  Comodidad para tu día a día con modelos modernos y funcionales.
+
+---
+
+### **¿Por qué elegirnos?**
+
+![Exterior de nuestra tienda](ruta-a-imagen.jpg)
+
+En **[Nombre de tu tienda]**, nos apasiona ofrecer calzado de la mejor calidad para toda la familia. Contamos con años de experiencia, atención personalizada y un servicio excepcional. Elige calidad, comodidad y confianza al caminar con nosotros.
+
+---
+
+### **Contáctanos**
+
+¿Tienes alguna pregunta o necesitas ayuda? ¡Estamos aquí para ayudarte!
+
+- **Nombre**  
+- **Correo electrónico**  
+- **Mensaje**
+
+---
+
+### **Síguenos**
+
+- [Facebook](#)  
+- [Instagram](#)  
+- [Twitter](#)
+
+---
+
+© 2025 [Nombre de tu tienda de calzado]. Todos los derechos reservados.  
+[Política de privacidad](#) | [Términos y condiciones](#)
+
