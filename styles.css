@@ -25,7 +25,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 10px;
-    background-color: rgba(71, 62, 17, 0.6); /*Lo ultimo es la opacidad*/
+    background-color: rgba(228, 225, 210, 0.747); /*Lo ultimo es la opacidad*/
 }
 
 .Logo img{
@@ -48,7 +48,7 @@ header{
 }
 
 .menu a:hover{
-    background-color: #f0f0f0;
+    background-color: #a18d34;
     color: black;
     border-radius: 5px;
 }
