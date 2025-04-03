@@ -16,4 +16,15 @@ header{
     gap: 40px; 
 }
 
+.container{
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    background-color: rgba(168, 166, 166, 0.3); /*Lo ultimo es la opacidad*/
+}
 
