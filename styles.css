@@ -28,6 +28,10 @@ header{
     background-color: rgba(168, 166, 166, 0.3); /*Lo ultimo es la opacidad*/
 }
 
+.Logo img{
+    width: 200px;
+    height: 100px;
+}
 .menu{
     display: flex;
     gap: 20px;
