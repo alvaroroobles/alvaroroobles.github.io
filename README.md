@@ -14,3 +14,10 @@ Se usará para o bien descargar el catálogo de la temporada actual, o para pasa
 
 ### 3. Imagen Hero
 Imagen destacada e imponente,se usará una imagen de presentación ya sea del interior o del exterior de la tienda
+
+### 4. Tarjetas
+A continuación, habrá tres tarjetas que representen las tres categorías de calzado más importantes que ofrecemos. Cada tarjeta contendrá:
+- **Título**: El nombre de la categoría (Ej. "Zapatos de vestir", "Calzado deportivo", "Botas y botines").
+- **Imagen**: Imagen representativa de cada tipo de calzado.
+- **Breve Descripción**: Una pequeña descripción de la categoría, con el objetivo de guiar al visitante sobre lo que encontrará en esa sección.
+
