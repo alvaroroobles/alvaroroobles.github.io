@@ -1,4 +1,4 @@
-# Planificación de la Página Web de [Nombre de tu tienda de calzado]
+# Planificación de la Página Web de [Calzados Guadix]
 
 ## 1. Encabezado (Header)
 
@@ -66,7 +66,7 @@
   - [Twitter](#)
   
 - **Derechos de Autor**  
-  © 2025 [Nombre de tu tienda de calzado]. Todos los derechos reservados.
+  © 2025 [Calzados Guadix]. Todos los derechos reservados.
 
 ---
 
