@@ -23,4 +23,19 @@ A continuación, habrá tres tarjetas que representen las tres categorías de ca
 
 ### 5. Sección "Acerca de Nosotros"
 En esta sección se proporcionará información sobre **Almacén de Calzados Guadix**. Se destacarán los valores y misión de la tienda, así como los años de experiencia y compromiso con la calidad y satisfacción del cliente. Ejemplo de contenido:
-- **"En Almacén de Calzados Guadix llevamos más de 20 años ofreciendo calzado de calidad para toda la familia. Nos enorgullece brindar productos que combinan comodidad, durabilidad y estilo."**
+- **"En Almacén de Calzados Guadix llevamos más de 40 años ofreciendo calzado de calidad para toda la familia. Nos enorgullece brindar productos que combinan comodidad, durabilidad y estilo."**-
+
+  
+### 6. Formulario de Contacto
+Tendra diferentes secciones:
+- **Nombre**: El nombre de la persona.
+- **Gmail**: El correo de la persona.
+- **Telefono**: Un teléfono de la persona que quiere contactarnos.-
+
+### 7. Footer
+El pie de página contendrá información importante y enlaces adicionales:
+- **Información de contacto**: Dirección, teléfono y correo electrónico.
+- **Enlaces**: Enlaces rápidos a secciones importantes del sitio, como el catálogo, política de privacidad, y términos y condiciones.
+- **Redes sociales**: Iconos con enlaces a las redes sociales de Almacén de Calzados Guadix (por ejemplo, Facebook, Instagram, Twitter).
+
+---
