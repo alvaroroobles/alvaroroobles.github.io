@@ -5,7 +5,7 @@
 }
 
 header{
-    background: url(captura.png) center no-repeat;
+    background: url(hero.png) center no-repeat;
     background-size: cover;
     height: 80vh;
     /*PARA EL CENTRADO DEL BOTÓN : */
@@ -24,8 +24,8 @@ header{
     display: flex;
     justify-content: space-around;
     align-items: center;
-    padding: 20px;
-    background-color: rgba(168, 166, 166, 0.3); /*Lo ultimo es la opacidad*/
+    padding: 10px;
+    background-color: rgba(163, 187, 189, 0.5); /*Lo ultimo es la opacidad*/
 }
 
 .Logo img{
@@ -43,5 +43,4 @@ header{
     font-size: 20px;
     border: 1px solid black;
     padding: 10px;
-    border-radius: 20px
 }
