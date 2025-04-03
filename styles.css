@@ -7,7 +7,7 @@
 header{
     background: url(hero.png) center no-repeat;
     background-size: cover;
-    height: 80vh;
+    height: 70vh;
     /*PARA EL CENTRADO DEL BOTÓN : */
     display: flex;
     flex-direction: column;
