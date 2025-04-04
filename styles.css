@@ -4,6 +4,13 @@
     padding: 0;
 }
 
+p{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
 header{
     background: url(prueba_hero.jpg) center no-repeat;
     opacity: 0.89;
