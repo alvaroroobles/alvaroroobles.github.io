@@ -89,6 +89,12 @@ header{
     color: black;
 }
 
+.cta-boton:hover {
+    background-color: white;
+    color: rgb(0, 0, 0);
+    border-radius: 5px;
+}
+
 .destacados{
     text-align: center;
     padding: 30px;
@@ -124,6 +130,11 @@ header{
     flex:1;
 }
 
+.tarjeta:hover{
+    background-color: #141414;
+    color: rgb(248, 245, 245);
+    border-radius: 5px;
+}
 .texto{
     display: flex;
     flex-direction: column;
