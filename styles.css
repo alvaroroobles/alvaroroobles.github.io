@@ -12,7 +12,7 @@ h2{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 header{
-    background: url(prueba_hero.jpg) center no-repeat;
+    background: url(IMG/prueba_hero.jpg) center no-repeat;
     opacity: 0.89;
     background-size: cover;
     height: 70vh;
