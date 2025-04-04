@@ -80,3 +80,12 @@ header{
     text-decoration: none;
     color: black;
 }
+
+.container-tarjetas{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    flex-wrap: wrap;
+    margin-top: 50px;
+    justify-content: space-evenly;
+    align-items: center;
+}
