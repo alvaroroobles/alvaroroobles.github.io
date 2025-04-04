@@ -153,6 +153,8 @@ header{
     padding: 5px;
     gap: 50px;
     text-align: center;
+    justify-content: center;
+    font-size: 1.2rem;
 }
 
 .container-descripcion img{
