@@ -38,7 +38,8 @@ header{
 
 .Logo img{
     width: 200px;
-    height: 75px;
+    height: 80px;
+    padding: 5px;
 }
 .menu{
     display: flex;
