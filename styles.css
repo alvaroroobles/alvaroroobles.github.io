@@ -84,8 +84,39 @@ header{
 .container-tarjetas{
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
-    flex-wrap: wrap;
-    margin-top: 50px;
-    justify-content: space-evenly;
+    padding: 20px;
+    justify-items: center;
+}
+.tarjeta{
+    display: flex;
+    flex-direction: column;
+    border: 1px solid #6d5245;
     align-items: center;
+    border-radius: 23px;
+    box-shadow: #f0f0f0 0px 0px 10px;
+    
+}
+
+.tarjeta img{
+    width: 120%;
+    height: 140px;
+    margin-right: 40px;
+    flex:1;
+}
+
+.texto{
+    display: flex;
+    flex-direction: column;
+    padding: 5px;
+    gap: 5px;
+    text-align: center;
+}
+
+.texto h2{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.texto p{
+    margin-bottom: 10px;
 }
