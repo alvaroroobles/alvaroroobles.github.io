@@ -16,7 +16,6 @@ header{
     opacity: 0.89;
     background-size: cover;
     height: 70vh;
-    /*PARA EL CENTRADO DEL BOTÓN : */
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -33,7 +32,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 10px;
-    background-color: rgba(228, 225, 210, 0.747); /*Lo ultimo es la opacidad*/
+    background-color: rgba(228, 225, 210, 0.747); 
 }
 
 .Logo img{
