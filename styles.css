@@ -221,7 +221,36 @@ header{
     padding: 10px;
     border-radius: 10px;
 }
+
 .formulario-contacto #enviar:hover {
+    background-color: #6d5245;
+    color: white;
+}
+
+#botonInicio{
+    font-size: 1.3rem;
+    padding: 20px;
+    color: white;
+}
+
+#boton1:hover{
+    background-color: black;
+    color: white;
+}
+
+
+#boton1{
+    background-color: wheat;
+    color: black;
+    border: none;
+    padding: 20px;
+    border-radius: 10px;
+    font-size: 1.3rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    opacity: 0.8;
+}
+
+#boton1 a:hover{
     background-color: #6d5245;
     color: white;
 }
