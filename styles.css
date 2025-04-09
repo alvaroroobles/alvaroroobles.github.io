@@ -32,7 +32,7 @@ header{
     justify-content: space-around;
     align-items: center;
     padding: 10px;
-    background-color: rgba(228, 225, 210, 0.747); 
+    background-color: rgba(228, 225, 210, 0.99); 
 }
 
 .Logo img{
@@ -251,12 +251,13 @@ header{
     margin-bottom: 10px;
 }
 
-.columna-3 a{
+.footer-container a{
     text-decoration: none;
     color:black;
+
 }
 
-.columna-3 a:hover{
+.footer-container a:hover{
     color: white;
     transform: scale(1.1);
 }
