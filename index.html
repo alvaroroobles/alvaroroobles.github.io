@@ -75,19 +75,20 @@
             </div>
         </section>
 
-        <div class="formulario">
-            <form action="/enviar" method="post">
-                <label for="nombre">Nombre:</label><br>
-                <input type="text" id="nombre" name="nombre" required><br><br>
-            
-                <label for="correo">Correo electrónico:</label><br>
-                <input type="email" id="correo" name="correo" required><br><br>
-            
-                <label for="telefono">Teléfono:</label><br>
-                <input type="tel" id="telefono" name="telefono" required><br><br>
-            
-                <input type="submit" value="Enviar">
-              </form>
-        </div>
+        <section class="formulario-container">
+            <h2>Contáctanos</h2>
+            <form class="formulario-contacto" action="/enviar" method="post">
+              <label for="nombre">Nombre:</label>
+              <input type="text" id="nombre" name="nombre" required>
+          
+              <label for="correo">Correo electrónico:</label>
+              <input type="email" id="correo" name="correo" required>
+          
+              <label for="telefono">Teléfono:</label>
+              <input type="tel" id="telefono" name="telefono" required>
+          
+              <input type="submit" value="Enviar" class="cta-boton">
+            </form>
+        </section>
 </body>
 </html>
