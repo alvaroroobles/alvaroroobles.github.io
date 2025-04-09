@@ -203,9 +203,7 @@ header{
     font-size: 1.1rem;
 }
 
-.formulario-contacto input[type="text"],
-.formulario-contacto input[type="email"],
-.formulario-contacto input[type="tel"] {
+.formulario-contacto input {
     padding: 10px;
     border-radius: 10px;
     border: 1px solid #6d5245;
@@ -213,7 +211,14 @@ header{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
-.formulario-contacto input[type="submit"] {
-    cursor: pointer;
-    margin-top: 10px;
+.formulario-contacto #enviar {
+    background-color: white;
+    color: black;
+    border: none;
+    padding: 10px;
+    border-radius: 10px;
+}
+.formulario-contacto #enviar:hover {
+    background-color: #6d5245;
+    color: white;
 }
