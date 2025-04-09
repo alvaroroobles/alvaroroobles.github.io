@@ -130,7 +130,10 @@ header{
     flex:1;
 }
 
-.tarjeta:hover{    border-radius: 5px;
+.tarjeta:hover{   
+    border-radius: 5px;
+    background-color: wheat;
+    transition: 2s;;
 }
 .texto{
     display: flex;
@@ -237,5 +240,29 @@ header{
     justify-content: space-between;
     align-items: center;
     padding: 20px;
-    
+}
+
+.footer-container p{
+    font-size: 1.2rem;
+    margin-bottom: 10px;
+}
+.footer-container h4{
+    font-size: 1.5rem;
+    margin-bottom: 10px;
+}
+
+.columna-3 a{
+    text-decoration: none;
+    color:black;
+}
+
+.columna-3 a:hover{
+    color: white;
+    transform: scale(1.1);
+}
+
+#copyright{
+    font-size: 1.5rem;
+    text-align: center;
+    margin-top: 10px;
 }
