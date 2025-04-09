@@ -224,8 +224,12 @@ header{
 }
 
 .footer{
-    background-color: #6d5245;
-    color: white;
+    background-color: wheat;
+    color: black;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    border: 2px solid #6d5245;
+    border-radius: 5px;
+    padding: 20px;
 }
 
 .footer-container {
