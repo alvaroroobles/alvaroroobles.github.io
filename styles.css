@@ -130,8 +130,7 @@ header{
     flex:1;
 }
 
-.tarjeta:hover{
-    border-radius: 5px;
+.tarjeta:hover{    border-radius: 5px;
 }
 .texto{
     display: flex;
