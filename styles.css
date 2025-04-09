@@ -173,3 +173,47 @@ header{
     border-radius: 30px;
     flex:1;;
 }
+
+.formulario-container {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 30px;
+    background-color: rgba(228, 225, 210, 0.747);
+    border: 2px solid #6d5245;
+    border-radius: 30px;
+    box-shadow: #f0f0f0 0px 0px 10px;
+}
+
+.formulario-container h2 {
+    text-align: center;
+    font-size: 2rem;
+    color: #000000;
+    margin-bottom: 20px;
+}
+
+.formulario-contacto {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.formulario-contacto label {
+    font-weight: bold;
+    font-size: 1.1rem;
+}
+
+.formulario-contacto input[type="text"],
+.formulario-contacto input[type="email"],
+.formulario-contacto input[type="tel"] {
+    padding: 10px;
+    border-radius: 10px;
+    border: 1px solid #6d5245;
+    font-size: 1rem;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.formulario-contacto input[type="submit"] {
+    cursor: pointer;
+    margin-top: 10px;
+}
