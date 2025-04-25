@@ -4,10 +4,6 @@
     padding: 0;
 }
 
-.active {
-    display: block;
-}
-
 p{
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
@@ -301,6 +297,10 @@ header{
     border-radius: 10px;
     font-size: 1rem;
     margin-bottom: 10px;
+}
+
+.active {
+    display: block;
 }
 
 .faq-question .plus {
