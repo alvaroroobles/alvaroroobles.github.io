@@ -39,4 +39,7 @@ El pie de página contendrá información importante y enlaces adicionales:
 - **Enlaces**: Enlaces rápidos a secciones importantes del sitio, como el catálogo, política de privacidad, y términos y condiciones.
 - **Redes sociales**: Iconos con enlaces a las redes sociales de Almacén de Calzados Guadix (por ejemplo, Facebook, Instagram, Twitter).
 
+### Version 1.0 JavaScript.
+
+He añadido una seccion de preguntas frecuentes, donde he utilizado JavaScript para desplegar la respuesta de cada pregunta una vez que le haces click.
 ---
