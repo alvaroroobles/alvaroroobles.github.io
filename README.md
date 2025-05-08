@@ -42,4 +42,4 @@ El pie de página contendrá información importante y enlaces adicionales:
 ### Version 1.0 JavaScript.
 
 He añadido una seccion de preguntas frecuentes, donde he utilizado JavaScript para desplegar la respuesta de cada pregunta una vez que le haces click.
----
+
